@@ -1,0 +1,92 @@
+.card.a.active::before {
+  background: url(images/Pikachu.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+
+.card.active::before{
+  display: block;
+  opacity: 1;
+}
+
+.card.b::before{
+  background: url(images/onix.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.c::before{
+  background: url(images/alakazam.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.d::before{
+  background: url(images/bulbasaur.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.e::before{
+  background: url(images/butterfree.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.f::before{
+  background: url(images/charizard.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.g::before{
+  background: url(images/craby.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.h::before{
+  background: url(images/Dragonite.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.i::before{
+  background: url(images/Lapras.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.j::before{
+  background: url(images/pidgeotto.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+.card.k::before{
+  background: url(images/Squirtle.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+.card.l::before{
+  background: url(images/torrus.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darksalmon;
+}
+
+.card.active::before{
+  border: black solid 2px;
+  box-shadow: 0 0 10px #360202, 0 0 5px #0d0438;
+}
