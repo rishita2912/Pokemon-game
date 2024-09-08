@@ -1,6 +1,6 @@
 # Pokemon-game
 
-By Abhinav Bhatnagar
+By T Rishita Reddy
 <br/>
 
 <ul>
